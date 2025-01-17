@@ -16,6 +16,8 @@ public class Week2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("heyo");
+        //another edit to try commit
+        System.out.println("tryingggg....");
     }
     
 }
